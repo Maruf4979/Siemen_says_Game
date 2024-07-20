@@ -1,2 +1,2 @@
 # Siemen_says_Game
-<!-- This is a basic game  where you have to press a key from key board to start the game .Afert pressing the key a box will be flaced and the level will be incremented.To go to the next level you have to remember the previous flaced box and then press all the privious flaced boxes in the same sequence in order to move to the next level.-->
+ # This is a basic game  where you have to press a key from key board to start the game .Afert pressing the key a box will be flaced and the level will be incremented.To go to the next level you have to remember the previous flaced box and then press all the privious flaced boxes in the same sequence in order to move to the next level.
